@@ -1,0 +1,17 @@
+.env
+/storage/logs/*
+!/storage/logs/.gitkeep
+/storage/private/*
+!/storage/private/.gitkeep
+*.log
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+vendor/
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini
